@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ergoneled.github.io/sitemap
+Sitemap: https://ergoneled.github.io/app/sitemap
+Sitemap: https://ergoneled.github.io/assets/sitemap
+Sitemap: https://ergoneled.github.io/css/sitemap
+Sitemap: https://ergoneled.github.io/includes/sitemap
+Sitemap: https://ergoneled.github.io/item/sitemap
+Sitemap: https://ergoneled.github.io/src/sitemap
